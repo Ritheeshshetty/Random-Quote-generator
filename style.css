@@ -101,3 +101,16 @@ footer span{
   display: block;
   font-size: 20px;
 }
+@media screen and (max-width: 460px){
+  .logo{
+    font-size: 30px;
+    color: red;
+    max-height: auto;
+  }
+  #container{
+    max-width: fit-content;
+    max-height: fit-content;
+    border: auto;
+    margin: auto;
+  }
+}
