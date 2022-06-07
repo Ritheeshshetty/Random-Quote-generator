@@ -113,4 +113,9 @@ footer span{
     border: auto;
     margin: auto;
   }
+  footer{
+    margin-top: 140px;
+    padding: 15px;
+    
+  } 
 }
